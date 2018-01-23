@@ -1,0 +1,34 @@
+
+
+Jonas A. Kintner
+================================
+
+
+.. image:: kintner.jpg
+    :scale: 100%
+    :align: right
+
+Surface Wave Relocation Methods On Remote Continental Earthquakes
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Accurate hypocenter locations are an essential parameter needed for seismic event characterization and analysis.
+Traditional single-event location estimation methods provide relatively imprecise results in remote regions,
+where there are an insufficient number of seismic stations near the events. Previous work has demonstrated that improvements
+in relative hypocentral precision can be refined by using cross correlation measurements from body and surface waveforms.
+In this work we use intermediate-period regional and teleseismic Rayleigh and Love waves to estimate relative locations of
+moderately-sized seismic events in regions around Iran’s Zagros Mountains. Applying this method to continental regions provides
+the opportunity to compare the surface-wave based relative locations with InSAR centroid location estimates. Large variations in
+faulting orientation, depth, and differences in intermediate-period dispersion make event relocation a challenging task in the Zagros Mountains region.
+This study explores the potential of using these relocation methods for smaller earthquakes (M < 4.0).
+Among the additional considerations needed for these relocations, we explore the effects of shifting
+the bandwidth from the 30-80 second band to short periods to accommodate for smaller magnitudes.
+We show that frequency dependent observations can support previous estimates of distance and velocity between events.
+Inter-event phase observations can potentially allow for the verification of surface wave dispersion estimates at shorter periods.
+We additionally explore some of the details involved with calibrating the mainshock of an earthquake sequence to the centroid of a given InSAR fault model.
+These additional comparisons between surface wave based relocations and InSAR hypocentroids are important for estimating absolute locations of nearby events.
+We explore these ideas using earthquake sequences in regions around the southern Zagros Mountains of Iran. Our ultimate goal is to gain insight on additional
+considerations needed to estimate precise locations of remote continental seismic events.
+
+-----
+
+:download:`Abstract PDF <./kintner.pdf>`
