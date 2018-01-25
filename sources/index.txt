@@ -14,7 +14,7 @@ The 50th Annual Graduate Student Colloquium  March 22-23, 2018
 ========================================================================
 
 .. image:: trampush.png
-  :scale: 35%
+  :scale: 70%
   :align: center
 
 """"""""""""""""""""""""
