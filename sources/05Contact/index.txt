@@ -18,7 +18,7 @@ Contact Us
 
       Heather Jones: `Web <http://www.geosc.psu.edu/node/2302>`__
 
-      Jonas Kintner: `Web <http://eqseis.geosc.psu.edu/~jkintner/>`__
+      Jonas Kintner: `Web <http://www.geosc.psu.edu/content/jonas_kintner>`__
 
       Rebecca Payne: `Web <http://www.geosc.psu.edu/content/rebecca_payne>`__
 
@@ -30,4 +30,4 @@ Contact Us
 -----
 
 **Website IT support:**
-  Jonas Kintner:  `Web <http://eqseis.geosc.psu.edu/~jkintner/>`__
+  Jonas Kintner:  `Web <http://www.geosc.psu.edu/content/jonas_kintner>`__
