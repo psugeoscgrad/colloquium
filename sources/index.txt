@@ -68,9 +68,9 @@ The `abstract submission <./02SignUp/index.html>`__ deadline for this year's col
 
 
    Submit Abstract/Contest Entry<./02SignUp/index.txt>
+   Rules and Judging Guidelines<./03Rules/index.txt>
    Abstracts<./01Abstracts/index.txt>
    Awards<./04Awards/index.txt>
-   Rules and Judging Guidelines<./03Rules/index.txt>
    Committee Members and Contacts<./05Contact/index.txt>
 
 
