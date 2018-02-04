@@ -6,9 +6,13 @@
 .. image:: psu-mark_1-1.png
   :scale: 15%
   :align: left
+
 |
+
 |
+
 |
+
 ========================================================================
 The 50th Annual Graduate Student Colloquium  March 22-23, 2018
 ========================================================================
@@ -20,11 +24,18 @@ The 50th Annual Graduate Student Colloquium  March 22-23, 2018
 """"""""""""""""""""""""
 Key Information
 """"""""""""""""""""""""
-**1. Abstract submissions are due on February 23, 2018 at 5:00 pm**
 
-**2. Photo Contest and T-Shirt Contest submissions are due on February 23, 2018 at 5:00 pm**
+**1. February 23, 2018 at 5:00 pm**
 
-**3. A series of events will take place prior to the Graduate Student Colloquium including a presentation on “how to give a good talk and poster”, date will be determined shortly.**
+* **Abstracts and Photo/T-Shirt Contest submissions are due.**
+
+**2. March 12, 2018**
+
+* **Kevin Furlongs Presentation on “How to Give a Good Poster”.**
+
+**3. March 14, 2018**
+
+* **Kevin Furlongs Presentation on “How to Give a Good Talk”.**
 
 **4. We are organizing a series of special events including some short talks from some departmental alumni on “how to have a successful career in the geosciences” and a reception in the EMS museum. For more information, see our online schedule.**
 
@@ -43,9 +54,6 @@ The Graduate Student Colloquium is a student-organized annual event that celebra
 
 The `abstract submission <./02SignUp/index.html>`__ deadline for this year's colloquium will be February 23rd at 5pm. All are encouraged to participate; presentations on research in progress are welcome. If you would like to submit entries to the `photo contest <./02SignUp/index.html>`__ or `t-shirt design contest <./02SignUp/index.html>`__ , they will also be due on February 23rd at 5pm.A series of events will take place prior to the Graduate Student Colloquium including a presentation on “how to give a good talk and poster”. To celebrate the 50th anniversary of Graduate Colloquium, we are also organizing a series of special events including some short talks from some departmental alumni on “how to have a successful career in the geosciences” and a reception in the EMS museum. Make sure to join us to be part of the celebrations! For more information on those events, see our online schedule.
 The Graduate Colloquium Committee wishes to thank in advance the students and faculty for their participation. The Committee also wishes to thank the Shell People Services Division of Shell Oil Company; the Department of Geosciences for their donations of prize money and their generous financial support; and Dave Cannon and his family for their generous donation towards the graduate colloquium awards.
-
-
-
 
 |
 
