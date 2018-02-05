@@ -36,7 +36,19 @@ Abstract Submissions
 
     Masters or PhD pre-comps or PhD post-comps
 
-  **3. Any or All Preferred Day and Time for Talk:**
+  **3. Year:**
+
+  .. code::
+
+    1st Year
+    2nd Year
+    3rd Year
+    4th Year
+    5th Year
+    6th Year
+    ....
+
+  **4. Any or All Preferred Day and Time for Talk:**
 
   .. code::
 
@@ -45,7 +57,7 @@ Abstract Submissions
     Friday Morning
     Friday Afternoon
 
-  **4. How is the Research Classified:**
+  **5. How is the Research Classified:**
 
   .. code::
 
@@ -55,7 +67,7 @@ Abstract Submissions
     Paleontology           Petrology
     Sedimentary Processes  Seismology
 
-  **5. Is the Talk or Poster Related to Petroleum Research:**
+  **6. Is the Talk or Poster Related to Petroleum Research:**
 
   .. code::
 
@@ -94,5 +106,3 @@ T-Shirt Contest Entries
 .. code::
 
   psugeosc.gradcolloquium@gmail.com
-
------
