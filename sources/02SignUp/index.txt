@@ -48,7 +48,7 @@ Abstract Submissions
     6th Year
     ....
 
-  **4. Any or All Preferred Day and Time for Talk:**
+  **4. Any Day/Time You are Not Available to Give a Talk:**
 
   .. code::
 
