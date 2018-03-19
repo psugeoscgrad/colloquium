@@ -1,8 +1,0 @@
-.. _06Schedule-index:
-
-Schedule
-""""""""""
-.. image:: ./GradColloquium_Schedule.png
-    :scale: 75%
-    :align: left
-:download:`Download a PDF of the Schedule Here <./GradColloquium_Schedule.pdf>`
